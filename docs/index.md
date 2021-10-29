@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Bienvenue sur Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## A propos de ce site ?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+C'est un site qui sert à mettre des documentations.  
+Ce site est utilisé pour mes documentations c'est à dire celles de Vincent Bidard de la Noë. Il pourra y avoir aussi éventuellement des documentations de logiciels d'autres personnes.  
+[Mon Compte Github](https://github.com/Vinz2008)
 
-## Project layout
+## La création du site 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+J'ai utilisé pour faire ce site [Mkdocs](https://www.mkdocs.org/) hébergé gratuitement sur [Github Pages](https://pages.github.com/).  
+Toutes les documentations sont écrites en [Markdown](https://www.markdownguide.org/) puis Mkdocs génère le code du site.
