@@ -1,5 +1,4 @@
 # Pass-manager
-
 [Github page of the project](https://github.com/Vinz2008/pass-manager)
 ## Description
 Pass-manager is a command-line application which can manage passwords written in python. It uses [sqlite3](https://docs.python.org/3/library/sqlite3.html) to keep the passwords in the storage.

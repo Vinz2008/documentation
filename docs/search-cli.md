@@ -1,9 +1,7 @@
 # search-cli
 It is a cli utility to search things with google.
 [Github page of the project](https://github.com/Vinz2008/search-cli)
-
 ## Installation
-
 Clone the repo :
 ```
 git clone https://github.com/Vinz2008/search-cli.git
