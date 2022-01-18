@@ -1,5 +1,5 @@
 # Sosumi-installation-script
-[Github page of the project](https://github.com/Vinz2008/Sosumi-installation-script)
+[Github page of the project](https://github.com/Vinz2008/Sosumi-installation-script)  
 ENGLISH:
 This is a Sosumi installation script  
 Sosumi is a snap package based on macos-simple-kvm.
